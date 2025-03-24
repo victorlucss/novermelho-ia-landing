@@ -37,7 +37,7 @@ export function HeroSection() {
             className="flex flex-col sm:flex-row gap-4"
           >
             <Button size="lg" className="gap-2" asChild>
-              <a href="https://app.novermelho.com/dashboard" target="_blank" rel="noopener noreferrer">
+              <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
                 {t("hero.cta")}
                 <ArrowRight className="h-4 w-4" />
               </a>

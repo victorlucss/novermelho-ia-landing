@@ -98,13 +98,13 @@ export function GettingStartedSection() {
                   </a>
                 </Button>
                 <Button variant="outline" className="w-full justify-start gap-2" asChild>
-                  <a href="https://docs.novermelho.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://docs.appnovermelho.vercel.app" target="_blank" rel="noopener noreferrer">
                     <FileText className="h-4 w-4" />
                     {t("start.docs")}
                   </a>
                 </Button>
                 <Button variant="default" className="w-full justify-start gap-2 mt-2" asChild>
-                  <a href="https://app.novermelho.com/dashboard" target="_blank" rel="noopener noreferrer">
+                  <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
                     <ArrowRight className="h-4 w-4" />
                     Acessar Dashboard
                   </a>

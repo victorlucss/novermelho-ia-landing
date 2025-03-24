@@ -95,7 +95,7 @@ export function Footer() {
 
           <div className="flex items-center gap-4">
             <Button variant="outline" size="sm" asChild>
-              <a href="https://app.novermelho.com/dashboard" target="_blank" rel="noopener noreferrer">
+              <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
                 {t("dashboard.access")}
               </a>
             </Button>
