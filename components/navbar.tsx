@@ -82,7 +82,7 @@ export function Navbar() {
 
           <div className="hidden sm:flex">
             <Button variant="default" size="sm" asChild>
-              <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
+              <a href="https://appnovermelho.vercel.app/" target="_blank" rel="noopener noreferrer">
                 Dashboard
               </a>
             </Button>
@@ -107,7 +107,7 @@ export function Navbar() {
                   </Link>
                 ))}
                 <Button variant="default" className="mt-4" asChild>
-                  <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
+                  <a href="https://appnovermelho.vercel.app/" target="_blank" rel="noopener noreferrer">
                     Dashboard
                   </a>
                 </Button>

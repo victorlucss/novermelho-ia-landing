@@ -104,7 +104,7 @@ export function GettingStartedSection() {
                   </a>
                 </Button>
                 <Button variant="default" className="w-full justify-start gap-2 mt-2" asChild>
-                  <a href="https://appnovermelho.vercel.app/dashboard" target="_blank" rel="noopener noreferrer">
+                  <a href="https://appnovermelho.vercel.app/" target="_blank" rel="noopener noreferrer">
                     <ArrowRight className="h-4 w-4" />
                     Acessar Dashboard
                   </a>
