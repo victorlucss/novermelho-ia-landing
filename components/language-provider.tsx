@@ -54,9 +54,8 @@ const translations = {
     "pricing.features.two": "All premium features included",
     "pricing.features.three": "No credit card required",
     "pricing.features.four": "No hidden fees or surprises",
-    "pricing.features.five": "Free updates and support",
-    "pricing.joke": "Yes, we're probably crazy",
-    "pricing.disclaimer": "* We promise not to suddenly start charging you after you depend on us",
+    "pricing.features.five": "Updates and support not guaranteed",
+    "pricing.joke": "Only the crazy ones know",
 
     // Footer
     "footer.product": "Product",
@@ -122,9 +121,8 @@ const translations = {
     "pricing.features.two": "Todas as funcionalidades premium incluídas",
     "pricing.features.three": "Sem necessidade de cartão de crédito",
     "pricing.features.four": "Sem taxas ocultas ou surpresas",
-    "pricing.features.five": "Atualizações e suporte gratuitos",
-    "pricing.joke": "Sim, provavelmente somos loucos",
-    "pricing.disclaimer": "* Prometemos não começar a cobrar repentinamente depois que você depender de nós",
+    "pricing.features.five": "Atualizações e suporte não garantidos",
+    "pricing.joke": "Só os loucos sabem",
 
     // Footer
     "footer.product": "Produto",

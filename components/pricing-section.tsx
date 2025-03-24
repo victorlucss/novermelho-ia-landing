@@ -79,7 +79,6 @@ export function PricingSection() {
                 <Sparkles className="h-4 w-4" />
                 {t("pricing.joke")}
               </div>
-              <p className="text-xs text-center text-muted-foreground mt-4">{t("pricing.disclaimer")}</p>
             </CardFooter>
           </Card>
         </motion.div>
